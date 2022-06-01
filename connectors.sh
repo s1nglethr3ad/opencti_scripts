@@ -9,11 +9,6 @@
 # Define functions
 # ################
 
-# Function: print_banner
-# Print a massive OpenCTI banner.
-# Parameters: None
-# Returns: Nothing
-
 # Function: check_root
 # Check if we are logged in as root (UID 0) and exit if not.
 # Parameters: None
